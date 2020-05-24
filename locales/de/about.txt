@@ -1,0 +1,5 @@
+Deutsch (de)
+
+Contributors: Mark König (mking2203)
+
+This is the German language file for YDL-UI.
